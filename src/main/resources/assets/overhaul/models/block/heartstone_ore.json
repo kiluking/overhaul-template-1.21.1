@@ -1,7 +1,7 @@
 ﻿{
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:textures/missingno",
-    "particle": "minecraft:textures/missingno"
+    "all": "minecraft:block/redstone_ore",
+    "particle": "minecraft:block/redstone_ore"
   }
 }

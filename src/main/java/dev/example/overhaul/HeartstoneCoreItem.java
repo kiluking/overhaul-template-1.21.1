@@ -17,7 +17,7 @@ import java.util.List;
 
 public class HeartstoneCoreItem extends Item {
     public static final int MAX_ENERGY = 1;
-    public static final int REGEN_BOOST = 15;
+    public static final int REGEN_BOOST = 4;
     public static final int REGEN_DURATION = 100;
     public static final int REGEN_COOLDOWN = 600;
 
