@@ -1,0 +1,26 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "C": {
+      "item": "overhaul:heartstone_core"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+
+  "pattern": [
+  "OIO",
+  "ICI",
+  "OIO"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "overhaul:reinforced_heartstone_core"
+  }
+}

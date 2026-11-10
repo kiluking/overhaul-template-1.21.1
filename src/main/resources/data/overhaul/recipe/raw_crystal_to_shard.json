@@ -1,0 +1,15 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "overhaul:raw_crystal"
+    },
+    {
+      "item": "overhaul:raw_crystal"
+    }
+  ],
+  "result": {
+    "id": "overhaul:crystal_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "itemGroup.overhaul": "Example Mod Tab",
+  "block.overhaul.example_block": "Example Block",
+  "item.overhaul.example_item": "Example Item",
+  "item.overhaul.crystal_shard": "Crystal Shard",
+  "item.overhaul.raw_crystal": "Raw Crystal",
+  "item.overhaul.crystal_focus": "Crystal Focus",
+  "block.overhaul.crystal_ore": "Crystal Ore",
+  "item.overhaul.polished_heartstone": "Polished Heartstone",
+  "item.overhaul.raw_heartstone": "Raw Heartstone",
+  "item.overhaul.heartstone_core": "Heartstone Core",
+  "item.overhaul.reinforced_heartstone_core": "Reinforced Heartstone Core",
+  "block.overhaul.heartstone_ore": "Heartstone Ore",
+
+  "creativetab.overhaul.overhaul_tab": "Overhaul",
+
+  "overhaul.configuration.title": "Overhaul Configs",
+  "overhaul.configuration.section.overhaul.common.toml": "Overhaul Configs",
+  "overhaul.configuration.section.overhaul.common.toml.title": "Overhaul Configs",
+  "overhaul.configuration.items": "Item List",
+  "overhaul.configuration.logDirtBlock": "Log Dirt Block",
+  "overhaul.configuration.magicNumberIntroduction": "Magic Number Text",
+  "overhaul.configuration.magicNumber": "Magic Number"
+}

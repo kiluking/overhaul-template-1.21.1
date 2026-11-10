@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "overhaul:block/crystal_ore",
+    "particle": "overhaul:block/crystal_ore"
+  }
+}

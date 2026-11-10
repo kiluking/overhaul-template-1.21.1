@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "overhaul:raw_heartstone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "overhaul:polished_heartstone"
+  }
+}

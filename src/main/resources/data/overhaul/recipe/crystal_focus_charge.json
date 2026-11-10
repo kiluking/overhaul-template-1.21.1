@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "overhaul:raw_crystal"
+    },
+    {
+      "item": "overhaul:crystal_focus"
+    }
+  ],
+
+  "result": {
+    "id": "overhaul:crystal_focus",
+    "count": 1
+  }
+}
